@@ -1,10 +1,10 @@
-# Tips: "Click on the file and view as "Code" for better view"
+Tips: "Click on the file and view as "Code" for better view"
 
-# Given the image, it will perform chaincode encoding and give the boundary of an 
-# object i that image. An example is provided below and also the chaincode and property file of
-# each objects in the given image.
+Given the image, it will perform chaincode encoding and give the boundary of an 
+object i that image. An example is provided below and also the chaincode and property file of
+each objects in the given image.
 
-# Given Image:
+Given Image:
 
 20 40 0 3
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
